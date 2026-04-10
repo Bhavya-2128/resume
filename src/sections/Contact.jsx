@@ -124,7 +124,7 @@ export default function Contact() {
               border: '1px solid rgba(211,177,102,0.3)', boxShadow: '0 0 15px rgba(211,177,102,0.1)'
             }}>
               <img
-                src="/bhavya_21287_qr.png"
+                src="bhavya_21287_qr.png"
                 alt="Instagram QR"
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               />

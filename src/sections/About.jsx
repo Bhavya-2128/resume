@@ -82,7 +82,7 @@ export default function About() {
             overflow: 'hidden',
           }}>
             <img
-              src="/profile.png"
+              src="profile.png"
               alt="Bhavya Sanghavi"
               style={{
                 width: '100%', height: '100%',

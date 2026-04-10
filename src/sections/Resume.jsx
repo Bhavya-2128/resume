@@ -85,7 +85,7 @@ export default function Resume() {
         </p>
 
         <motion.a
-          href="/Bhavyakumar_Sanghavi_Resume.pdf"
+          href="Bhavyakumar_Sanghavi_Resume.pdf"
           download="Bhavyakumar_Sanghavi_Resume.pdf"
           className="btn btn-primary"
           style={{ fontSize: '0.9rem', padding: '1.1rem 3.5rem', letterSpacing: '4px' }}
